@@ -1,610 +1,436 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1724357605098 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1724357944274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357608298 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357947376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357611370 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357950473 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357614449 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357953560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357617600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357956678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357620687 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357959769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357623838 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357962855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357626921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357965947 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357630061 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357969058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357633163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357972170 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357636244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357975288 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357639357 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357978405 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357642485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357981495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357645557 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357984590 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357648662 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357987678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357651762 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357990791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357654892 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357993908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357658043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724357997007 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357661141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358000109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357664231 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358003203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357667309 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358006291 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357670405 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358009380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357673487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358012471 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357676575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358015560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357679664 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358018680 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357682740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358021792 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357685817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358024879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357688987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358027995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357692085 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358031113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357695186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358034201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357698274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358037293 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357701356 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358040382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357704455 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358043471 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357707530 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358046560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357710616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358049684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357713741 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358052799 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357716865 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358055908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357719981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358058993 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357723065 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358062107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357726157 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358065196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357729238 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358068314 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357732312 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358071406 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357735429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358074495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357738535 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358077585 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357741655 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358080677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357744733 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358083767 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357747813 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358086860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357750889 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358089970 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357753976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358093058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357757058 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358096203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357760178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358099298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357763257 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358102385 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357766341 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358105478 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357769469 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358108571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357772558 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358111666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357775685 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358114764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357778832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358117851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357781923 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358120966 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357785023 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358124080 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357788097 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358127176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357791229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358130289 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357794304 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358133376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357797375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358136504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357800499 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358139621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357803577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358142744 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357806913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358145840 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357810021 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358148944 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357813102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358152081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357816176 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358155195 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357819300 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358158287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357822382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358161366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357825453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358164450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357828525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357831600 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357834685 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357837758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357840863 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357843985 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357847082 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357850171 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357853247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357856322 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357859407 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357862496 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357865575 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357868674 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357871815 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357874937 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357878042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357881122 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357884220 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357887319 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357890396 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357893520 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357896609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357899735 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357902834 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357905933 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357909013 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357912097 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357915175 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-points-province.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-behind-acquisitions.gl.at.ply.gg:1230 => 127.0.0.1:1230 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.21): 1724357918250 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.21): 1724358167533 tunnel running, 2 tunnels registered
 
 
 TUNNELS
